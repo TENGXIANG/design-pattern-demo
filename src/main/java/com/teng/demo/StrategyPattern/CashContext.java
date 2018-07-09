@@ -1,5 +1,8 @@
 package com.teng.demo.StrategyPattern;
 
+/**
+ * 策略模式与简单工厂模式结合
+ */
 public class CashContext {
 
     private CashSuper cashSuper = null;
